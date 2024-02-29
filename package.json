@@ -1,0 +1,17 @@
+{
+  "name": "training-assignment1-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ali",
+  "license": "ISC",
+  "dependencies": {
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.5"
+  }
+}
